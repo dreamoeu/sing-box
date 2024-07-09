@@ -5,7 +5,7 @@ go 1.20
 require (
 	berty.tech/go-libtor v1.0.385
 	github.com/caddyserver/certmagic v0.19.2
-	github.com/cloudflare/circl v1.3.6
+	github.com/cloudflare/circl v1.3.7
 	github.com/cretz/bine v0.2.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-chi/chi/v5 v5.0.10
@@ -44,12 +44,12 @@ require (
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.26.0
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925
-	golang.org/x/crypto v0.15.0
-	golang.org/x/net v0.18.0
-	golang.org/x/sys v0.14.0
+	golang.org/x/crypto v0.21.0
+	golang.org/x/net v0.23.0
+	golang.org/x/sys v0.18.0
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	howett.net/plist v1.0.0
 )
 
